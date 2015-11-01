@@ -1,0 +1,14 @@
+{
+  "name": "Dashing Open Source Dashboard",
+  "description": "Realtime Dashboards and Widgets, using HTML, CSS, and JavaScript",
+  "keywords": [
+    "dashboard",
+    "realtime",
+    "socketstream",
+    "node",
+    "mongodb",
+    "redis"
+  ],
+  "website": "https://github.com/Shopify/dashing",
+  "repository": "https://github.com/Shopify/dashing"
+}
