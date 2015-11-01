@@ -9,6 +9,6 @@
     "mongodb",
     "redis"
   ],
-  "website": "https://github.com/Tropicalista/dashing",
+  "logo": "https://github.com/Tropicalista/node.png",
   "repository": "https://github.com/Tropicalista/dashing"
 }
